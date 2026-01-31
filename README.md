@@ -46,4 +46,4 @@ Recommendation system based on past orders
 Author
 Ramya Sai
 B.Tech Student | Software Developer Enthusiast
-GitHub | LinkedIn
+[GitHub](https://github.com/Ramyasai07) | [LinkedIn](https://linkedin.com/in/ramya-sai-pera)
